@@ -28,6 +28,8 @@ Weather app
 - Colors:
     - Primary-color: 0xFF13ADEB
     - Secondary-color: 0xFF71C8EB
+# Screenshots
+![Screenshot_1706523605](https://github.com/JonathanManaka/Weather-App/assets/48018676/9d797788-b9da-4683-993d-350e080d9679) ![Screenshot_1706523646](https://github.com/JonathanManaka/Weather-App/assets/48018676/2c60f77a-8627-40bc-80ba-ae511b30fac5)
 
 
 
