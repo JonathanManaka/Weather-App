@@ -32,6 +32,10 @@ Weather app
 ![Cairo logo](https://github.com/JonathanManaka/Weather-App/assets/48018676/690e3213-0c45-434a-8e03-3f94913c52c6)
 
 
+## Live preview
+
+https://github.com/JonathanManaka/Weather-App/assets/48018676/790c1915-11ed-4b89-84cb-054e47e70a24
+
 
 
 
