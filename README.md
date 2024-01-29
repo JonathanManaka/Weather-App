@@ -2,8 +2,8 @@
 
 Weather app
 
-## Getting Started
 
+## 📦 Packages
 - flutter_bloc: https://pub.dev/packages/flutter_bloc
 -  equatable: https://pub.dev/packages/equatable
 - get_it: https://pub.dev/packages/get_it
@@ -14,6 +14,7 @@ Weather app
   http: https://pub.dev/packages/http
   lottie: https://pub.dev/packages/lottie
   bloc_test: https://pub.dev/packages/bloc_test
+## Getting Started
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
