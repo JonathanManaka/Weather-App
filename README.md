@@ -14,6 +14,19 @@ Weather app
   http: https://pub.dev/packages/http
   lottie: https://pub.dev/packages/lottie
   bloc_test: https://pub.dev/packages/bloc_test
+
+## 💣 Functionality
+- Clean Architecture
+- Displaying current weather forecast infromation
+- Displaying 5 day weather forecast information
+
+
+
+
+
+
+
+  
 ## Getting Started
 This project is a starting point for a Flutter application.
 
