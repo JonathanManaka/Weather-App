@@ -20,8 +20,14 @@ Weather app
 - Displaying current weather forecast infromation
 - Displaying 5 day weather forecast information
 
+## 🚀 State Management / Structure
+- Flutter Bloc
 
-
+## 🎨 Design
+- Font-family: Poppins
+- Colors:
+    - Primary-color: 0xFF13ADEB
+    - Secondary-color: 0xFF71C8EB
 
 
 
