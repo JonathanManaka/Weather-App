@@ -27,9 +27,6 @@ class DetailedWidget extends StatelessWidget {
       if (state is RemoteFiveDayForecastLoading) {
         return const Center(child: LoadingWidget());
       }
-      if (state is RemoteFiveDayForecastError) {
-        return const Center(child: Icon(Icons.refresh));
-      }
       if (state is RemoteFiveDayForecastDone) {
         return DetailedForecastWidget(
             fiveDayForecastEntity: state.fiveDayForecast!);
